@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kazendott
 - 👀 I’m interested in coding, 3d modeling.
-- 🌱 I’m currently learning C# (WPF) and MS SQL
+- 🌱 I’m currently learning: python, java, C#
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
